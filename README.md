@@ -3,6 +3,11 @@
 ## 📌 Project Overview
 The **Crop Recommendation System** is a machine learning-based solution that suggests the most suitable crops for a given location based on environmental factors such as soil type, climate conditions, and water availability. The project includes data preprocessing, feature transformation, model training, and a **Streamlit web app** for easy user interaction.
 
+### 🔹 Dataset
+seethapathy, bangaru kamatchi; R, Parvathi (2020), 
+“AGRO-METEOROLOGICAL DATA OF INDIAN STATE TAMIL NADU”, 
+Mendeley Data, V1, doi: 10.17632/zyyb98msjc.1
+
 ### 🔹 Preprocessing & Feature Engineering
 - **Feature Transformation**
 - **Feature Engineering**
